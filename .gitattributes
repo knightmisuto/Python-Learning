@@ -1,0 +1,4 @@
+*.csv lfs-size-threshold=50k filter=lfs diff=lfs merge=lfs -text
+*.npy lfs-size-threshold=50k filter=lfs diff=lfs merge=lfs -text
+*.h5 lfs-size-threshold=50k filter=lfs diff=lfs merge=lfs -text
+*.zip lfs-size-threshold=50k filter=lfs diff=lfs merge=lfs -text

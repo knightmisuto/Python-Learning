@@ -1,0 +1,8 @@
+HandLandmark.INDEX_FINGER_MCP
+HandLandmark.INDEX_FINGER_TIP
+HandLandmark.MIDDLE_FINGER_MCP
+HandLandmark.MIDDLE_FINGER_TIP
+HandLandmark.RING_FINGER_MCP
+HandLandmark.RING_FINGER_TIP
+HandLandmark.PINKY_MCP
+HandLandmark.PINKY_TIP
