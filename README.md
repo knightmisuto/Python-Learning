@@ -20,4 +20,4 @@ https://github.com/knightmisuto/Python-learning/assets/38826504/6aa7ea3d-37e2-46
 
  ## - Change input image to sketch or cartoon image
 
-![](https://github.com/knightmisuto/Python-learning/blob/429ae917dda0d35e717be7031492d0c03085f939/IMG%20convert%20sketch%20cartoon/Preview.png)
+![](https://github.com/knightmisuto/Python-learning/blob/2f1b87c3adb496d585885a8eefa117f502f30c37/IMG%20convert%20sketch%20cartoon/Preview.png)
