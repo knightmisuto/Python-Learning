@@ -1,4 +1,4 @@
-# This is my projects when i first learn how to use Python in AI, Computer Vision, Data Science and Automation. Some projects for fun and some projects for use on competion on Kaggle. Python can do so much and i still neet to learn alot. Due to git LFS will be eat all free storage, i had upload my real source code to drive instead, please refer to this [link](https://drive.google.com/file/d/1-UNNWv8TW0pXvpfSmz9aLKjlPiRaoQFV/view?usp=drive_link)
+# This is my projects when i first learn how to use Python in AI, Computer Vision, Data Science and Automation. Some projects for fun and some projects for use on competion on Kaggle. Python can do so much and i still need to learn alot. Due to git LFS will be eat all free storage, i had upload my real source code to drive instead, please refer to this [link](https://drive.google.com/file/d/1-UNNWv8TW0pXvpfSmz9aLKjlPiRaoQFV/view?usp=drive_link)
 
 # Car tracking and estimate speed
 
