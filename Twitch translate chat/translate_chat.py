@@ -17,7 +17,7 @@ service = Service(executable_path=r'./chromedriver')
 options = Options()
 # options.add_argument("--start-maximized")
 # options.page_load_strategy = 'normal'
-options.add_argument('--headless')
+# options.add_argument('--headless')
 driver = webdriver.Chrome(service=service, options=options)
 driver.implicitly_wait(100)
 
@@ -48,6 +48,6 @@ while True:
                 msg = data[1]
                 if isinstance(msg, str):
                     translations = translator.translate(msg, dest='en')
-                    print(user + ": " + translations.text)
+                    print(user + ": " + f'Original: {msg}; Translate: {translations.text}')
                 old_msg_list.append(line.text)
     time.sleep(1)
